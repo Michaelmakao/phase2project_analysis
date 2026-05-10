@@ -1,6 +1,5 @@
-# phase2project_analysis
-Analyzing films that perform best at boxoffice and rt.reviews for a new movie studio
 # Movie Studio Data Analysis
+Analyzing films that perform best at boxoffice and rt.reviews for a new movie studio
 
 # about the Project
 This project was developed as part of a business case study for a new movie studio initiative. The company is exploring how to break into the competitive film industry — and they’ve asked for help understanding what kinds of movies tend to perform best at the box office.
